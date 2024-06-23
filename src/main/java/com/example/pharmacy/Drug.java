@@ -1,6 +1,6 @@
 package com.example.pharmacy;
 
-
+                                
 public class Drug {
     private static int count = 1;
     private String drugName;
